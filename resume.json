@@ -1,0 +1,81 @@
+{
+    "Name": "Ganesh Kanna MC",
+    "ContactNumber": [9884799422, 9345929246],
+    "eMail": "ganeshkannamc@gmail.com",
+    "objective":
+      "To obtain a position where my technical knowledge and soft skills would be well utilized and an opportunity for value-based growth and career advancement while contributing handsomely to the organization.",
+    "PERSONALSKILLS": [
+      "Willingness to learn",
+      "Enthusiastic and proactive in nature",
+      "Adaptable in work, problem solving, critical thinking, self confidence, handling pressure, leadership, creativity",
+      "Having good analytical mind, quick learning and testing ability",
+      "Good communication skills",
+      "Ability to follow standards and produce quality work"
+    ],
+    "tableHeading": ["Course", "Year", "INSTITUTION", "BOARD_UNIVERSITY"],
+    "EDUCATIONAL_QUALIFICATION": {
+        "UG": {
+            "Course": "BSC Cs",
+            "Year": "2007-2010",
+            "INSTITUTION": "AM. Jain College",
+            "BOARD_UNIVERSITY": "University of Madras"
+      },
+      "HSC": {
+        "Course": "Computer Science",
+        "Year": "2005-2006",
+        "INSTITUTION": "St Johns MHSS",
+        "BOARD_UNIVERSITY": "Matriculation"
+      },
+      "SSLC": {
+        "Course": "Computer Science",
+        "Year": "2002-2003",
+        "INSTITUTION": "St Johns MHSS",
+        "BOARD_UNIVERSITY": "Matriculation"
+      }
+    },
+    "PROGRAMMING_LANGUAGES": [
+      "HTML5, CSS3, Bootstrap 4.5, JavaScript, AJAX/JSON",
+      "Phyton, C#",
+      "MySQL, MongoDB",
+      "Excel VBA and macros",
+      "CMS Supervisor",
+      "JIRA, GitHub",
+      "AWS"
+    ],
+    "Job_Experience": {
+        "Sutherland_Global_Services": {
+            "Year": "2017-Present",
+            "DesignationAndRole": [
+          {
+            "Designation":
+              "Senior Associate IT-Helpdesk AT&T ConnecTech – (Duty Manager - CCOD)",
+              "Year": "",
+              "Role": [],
+          },
+          {
+            "Designation": "Associate IT-Helpdesk AT&T ConnecTech",
+            "Year": "",
+            "Role": [],
+          },
+          { "Designation": "Associate IT-Helpdesk HALO", Year: "", Role: [] },
+        ]
+      },
+      "CodeMantra": {
+        "Year": "2008-2015",
+        "DesignationAndRole": [
+          { "Designation": "Software Developer", Year: "2012-2015", Role: [] },
+          { "Designation": "Technical Support", Year: "2008-2012", Role: [] },
+        ]
+      }
+    },
+    "STRENGHTS": [
+      "Willingness to work round the clock",
+      "Adaptive to the situation",
+      "Positive thinker",
+      "Smart worker"
+    ],
+    "DECLARATION":
+      "I hereby declare that the Information furnished above is true to the best of my knowledge.",
+      "Place": "Chennai",
+      "Date": ""
+  }
